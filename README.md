@@ -5,9 +5,10 @@
 **INTERN ID:** CT04DZ475  
 **DOMAIN:** C++ Programming  
 **DURATION:** 4 WEEKS  
-**MENTOR:** Neela Santhosh
+**MENTOR:** Neela Santhosh  
 
 ---
+
 ## 📌 Project Overview
 
 This project demonstrates basic file handling operations using C++. It allows the user to perform file writing, appending, and reading in a console-based environment. The tool showcases structured I/O operations using `fstream`.
@@ -32,16 +33,17 @@ This project demonstrates basic file handling operations using C++. It allows th
 ### 📚 Standard Libraries Used:
 - `iostream`  
 - `fstream`  
-- `string`
+- `string`  
 
 ---
 
 ## 📁 Project Structure
 
 Task1_FileManagement/
-├── main.cpp            # Source code with menu-based logic
-├── managed_file.txt    # Runtime-generated file for storing input
-└── README.md           # Project documentation
+├── main.cpp # Source code with menu-based logic
+├── managed_file.txt # Runtime-generated file for storing input
+└── README.md # Project documentation
+
 ---
 
 ## ⚙️ How It Works
@@ -56,21 +58,26 @@ Allows appending additional lines to the file without deleting existing data.
 Displays the full contents of the file line by line.
 
 ---
-# Quick Start
+
 ## 🧪 How to Run
 
 ### 🔧 Prerequisites
 - Any C++ compiler (like `g++`)
 - Terminal or Command Prompt
 
-### ▶️ Compilation
+---
+
+## 🔨 Compilation
+
+Use the following command to compile the program:
 
 ```bash
 g++ main.cpp -o fileTool
-### ▶️ Execution
+This will generate an executable named fileTool.
+▶️ Execution
+Run the compiled program using:
 ./fileTool
----
-### Sample Interaction
+💬 Sample Interaction
 === File Management Tool ===
 1. Write to File
 2. Read from File
@@ -89,17 +96,13 @@ Enter your choice: 2
 Contents of the file:
 Hello Codetech
 This is Task 1!
----
-# Author
-- ARADHYA VERMA
-- Codetech C++ Internship – Task 1
-- Intern ID: CT04DZ475
-- Domain: C++ Programming
-# Acknowledgments
-- Codtech IT Solutions for the opportunity
-- Neela Santhosh for guidance and mentorship
-- The open source community for tutorials and resources
-- Everyone who provided feedback during development
-
-
-
+👨‍💻 Author
+ARADHYA VERMA
+Codetech C++ Internship – Task 1
+Intern ID: CT04DZ475
+Domain: C++ Programming
+🙏 Acknowledgments
+Codtech IT Solutions for the opportunity
+Neela Santhosh for guidance and mentorship
+The open-source community for tutorials and resources
+Everyone who provided feedback during development
