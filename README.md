@@ -85,7 +85,7 @@ Enter your choice: 2
 Contents of the file:
 Hello Codetech
 This is Task 1!
-
+```
 🌍 Real-World Use Cases
 📚 Learning Tool – Ideal for beginners in file I/O and stream operations
 🔧 Utility Scripts – Create basic data manipulation scripts
@@ -159,4 +159,4 @@ Neela Santhosh for guidance and mentorship
 The open source community for tutorials and resources
 Everyone who provided feedback during development
 
-<img width="1451" height="847" alt="Image" src="https://github.com/user-attachments/assets/7f8734e8-c107-4747-b72c-1e9762eb79af" />
+https://github.com/aradh-12/FILE-MANAGEMENT-TOOL/issues/1
