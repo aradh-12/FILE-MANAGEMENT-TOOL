@@ -93,6 +93,8 @@ This is Task 1!
 📁 Log Management – Store logs or input/output operations
 🧑‍💻 Interview Prep – Strengthen concepts of file streams and I/O handling
 🧠 Architecture & Logic Flow
+
+
 📌 Program Flow
 User selects an operation from the menu
 Based on selection:
@@ -100,27 +102,41 @@ Input is taken and written/appended using ofstream
 File is read using ifstream
 Errors are handled gracefully
 Loop continues until exit command is given
+
+
 📊 Performance & Design
 ⚡ Efficient – Minimal runtime and quick compilation
 🎯 Lightweight – No external dependencies
 🛡️ Robust – Prevents invalid file access and handles edge cases
 👨‍💻 Simple UI – Easy to interact with, even for beginners
+
+
+
 🔧 Configuration & Customization
 📝 Change Target Filename – Modify "managed_file.txt" in the source code
 🧱 Extend Functionality – Add support for file deletion or search
 🎨 Customize UI Prompts – Update messages and labels for branding
+
+
+
 🧪 Testing Guidelines
+
+
 ✅ Manual Testing
 Compile and run the tool
 Provide different types of input
 Verify contents of managed_file.txt after each operation
 Check for edge cases like empty input or invalid file access
+
+
 🚧 Future Enhancements
 📁 Support for multiple files
 🗑️ File deletion and rename options
 🧃 GUI wrapper using Qt or similar framework
 🤝 Contributing
 Contributions are welcome! Feel free to fork and enhance this tool with new features or optimizations.
+
+
 💡 How to Contribute
 bash
 git clone https://github.com/aradhyaverma/file-management-tool.git
@@ -128,10 +144,15 @@ git checkout -b feature/YourFeature
 # Make changes and commit
 git push origin feature/YourFeature
 # Create a Pull Request!
+
+
 📄 License
 This project is for educational purposes under Codtech's Internship Program. Refer to the LICENSE file for usage terms.
+
 👨‍💻 Author
 Aradhya Verma C++ Enthusiast | Codtech Intern – Task 1 Skilled in building structured console tools and mastering core C++ concepts
+
+
 🙏 Acknowledgments
 Codtech IT Solutions for the opportunity
 Neela Santhosh for guidance and mentorship
@@ -140,4 +161,6 @@ Everyone who provided feedback during development
 
 
  #output
-<img width="1451" height="847" alt="Image" src="https://github.com/user-attachments/assets/eb7a38c5-e8cc-4ef6-b48d-7946ef887141" /> 
+
+<img width="1451" height="847" alt="Screenshot 2025-08-01 at 2 49 40 PM" src="https://github.com/user-attachments/assets/4ccb60df-baad-4c83-b28c-29cdf525fce3" />
+
