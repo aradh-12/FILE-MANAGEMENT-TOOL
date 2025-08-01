@@ -67,10 +67,10 @@ Displays the full contents of the file line by line.
 
 ```bash
 g++ main.cpp -o fileTool
-▶️ Execution
+### ▶️ Execution
 ./fileTool
 ---
-# Sample Interaction
+### Sample Interaction
 === File Management Tool ===
 1. Write to File
 2. Read from File
