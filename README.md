@@ -96,7 +96,7 @@ Enter your choice: 2
 Contents of the file:
 Hello Codetech
 This is Task 1!
-👨‍💻 Author
+# Author
 ARADHYA VERMA
 Codetech C++ Internship – Task 1
 Intern ID: CT04DZ475
@@ -106,3 +106,4 @@ Codtech IT Solutions for the opportunity
 Neela Santhosh for guidance and mentorship
 The open-source community for tutorials and resources
 Everyone who provided feedback during development
+---
