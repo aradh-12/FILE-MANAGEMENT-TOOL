@@ -1,11 +1,11 @@
 # 📂 File Management Tool
 
-**COMPANY:** CODTECH IT SOLUTIONS  
-**NAME:** ARADHYA VERMA  
+**COMPANY:** Codtech IT Solutions  
+**NAME:** Aradhya Verma  
 **INTERN ID:** CT04DZ475  
-**DOMAIN:** C++ PROGRAMMING  
-**DURATION:** 4 WEEKS  
-**MENTOR:** NEELA SANTHOSH  
+**DOMAIN:** C++ Programming  
+**DURATION:** 4 Weeks  
+**MENTOR:** Neela Santhosh  
 
 A simple console-based file management utility built with C++ using `fstream`. It enables users to write, append, and read data from text files in a structured and interactive menu-driven program.
 
@@ -47,116 +47,159 @@ Whether you're practicing for technical interviews or mastering the basics of fi
 ---
 
 ## 📁 Project Structure
-Task1_FileManagement/ ├── main.cpp  # Source code with menu-based logic ├── managed_file.txt # Runtime-generated file for storing input └── README.md  # Project documentation
+
+```
+Task1_FileManagement/
+├── main.cpp         # Source code with menu-based logic  
+├── managed_file.txt # Runtime-generated file for storing input  
+└── README.md        # Project documentation  
+```
+
 ---
 
-## 🚀 Quick Start
+## ⚙️ Quick Start
 
-### 🔧 **Prerequisites**
-- C++ compiler (like g++)
-- Command line access (Linux, macOS, Windows)
+### 🔧 Prerequisites
 
-### ▶️ **Compilation**
+- C++ compiler (e.g., g++)
+- Command line access (Linux, macOS, or Windows)
+
+### ▶️ Compilation
 
 ```bash
 g++ main.cpp -o fileTool
+```
 
 ### ▶️ Execution
 
 ```bash
 ./fileTool
+```
 
-🧪 Sample Interaction
+---
+
+## 🧪 Sample Interaction
+
+```
 === File Management Tool ===
 1. Write to File
 2. Read from File
 3. Append to File
 4. Exit
 
-Enter your choice: 1
-Enter text to write to the file: Hello Codetech
+Enter your choice: 1  
+Enter text to write to the file: Hello Codtech  
 Data written successfully.
 
-Enter your choice: 3
-Enter text to append: This is Task 1!
+Enter your choice: 3  
+Enter text to append: This is Task 1!  
 Data appended successfully.
 
-Enter your choice: 2
-Contents of the file:
-Hello Codetech
+Enter your choice: 2  
+Contents of the file:  
+Hello Codtech  
 This is Task 1!
 ```
-🌍 Real-World Use Cases
-📚 Learning Tool – Ideal for beginners in file I/O and stream operations
-🔧 Utility Scripts – Create basic data manipulation scripts
-🧪 Prototyping – Build quick CLI prototypes using file handling
-📁 Log Management – Store logs or input/output operations
-🧑‍💻 Interview Prep – Strengthen concepts of file streams and I/O handling
-🧠 Architecture & Logic Flow
 
+---
 
-📌 Program Flow
-User selects an operation from the menu
-Based on selection:
-Input is taken and written/appended using ofstream
-File is read using ifstream
-Errors are handled gracefully
-Loop continues until exit command is given
+## 🌍 Real-World Use Cases
 
+- 📚 **Learning Tool** – Ideal for beginners in file I/O and stream operations  
+- 🔧 **Utility Scripts** – Create basic data manipulation scripts  
+- 🧪 **Prototyping** – Build quick CLI prototypes using file handling  
+- 📁 **Log Management** – Store logs or input/output operations  
+- 🧑‍💻 **Interview Prep** – Strengthen concepts of file streams and I/O handling  
 
-📊 Performance & Design
-⚡ Efficient – Minimal runtime and quick compilation
-🎯 Lightweight – No external dependencies
-🛡️ Robust – Prevents invalid file access and handles edge cases
-👨‍💻 Simple UI – Easy to interact with, even for beginners
+---
 
+## 🧠 Architecture & Logic Flow
 
+### 📌 Program Flow
 
-🔧 Configuration & Customization
-📝 Change Target Filename – Modify "managed_file.txt" in the source code
-🧱 Extend Functionality – Add support for file deletion or search
-🎨 Customize UI Prompts – Update messages and labels for branding
+1. User selects an operation from the menu  
+2. Based on selection:  
+   - Input is taken and written/appended using `ofstream`  
+   - File is read using `ifstream`  
+   - Errors are handled gracefully  
+3. Loop continues until the user exits  
 
+---
 
+## 📊 Performance & Design
 
-🧪 Testing Guidelines
+- ⚡ **Efficient** – Minimal runtime and quick compilation  
+- 🎯 **Lightweight** – No external dependencies  
+- 🛡️ **Robust** – Prevents invalid file access and handles edge cases  
+- 👨‍💻 **Simple UI** – Easy to interact with, even for beginners  
 
+---
 
-✅ Manual Testing
-Compile and run the tool
-Provide different types of input
-Verify contents of managed_file.txt after each operation
-Check for edge cases like empty input or invalid file access
+## 🔧 Configuration & Customization
 
+- 📝 **Change Target Filename** – Modify `"managed_file.txt"` in the source code  
+- 🧱 **Extend Functionality** – Add support for file deletion, renaming, or search  
+- 🎨 **Customize UI Prompts** – Update messages and labels for branding  
 
-🚧 Future Enhancements
-📁 Support for multiple files
-🗑️ File deletion and rename options
-🧃 GUI wrapper using Qt or similar framework
-🤝 Contributing
+---
+
+## ✅ Testing Guidelines
+
+### Manual Testing
+
+- Compile and run the tool  
+- Provide different types of input  
+- Verify contents of `managed_file.txt` after each operation  
+- Check for edge cases like empty input or invalid file access  
+
+---
+
+## 🚧 Future Enhancements
+
+- 📁 Support for multiple files  
+- 🗑️ File deletion and rename options  
+- 🧃 GUI wrapper using Qt or a similar framework  
+
+---
+
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to fork and enhance this tool with new features or optimizations.
 
+### 💡 How to Contribute
 
-💡 How to Contribute
-bash
+```bash
 git clone https://github.com/aradhyaverma/file-management-tool.git
+cd file-management-tool
 git checkout -b feature/YourFeature
 # Make changes and commit
 git push origin feature/YourFeature
 # Create a Pull Request!
+```
 
+---
 
-📄 License
-This project is for educational purposes under Codtech's Internship Program. Refer to the LICENSE file for usage terms.
+## 📄 License
 
-👨‍💻 Author
-Aradhya Verma C++ Enthusiast | Codtech Intern – Task 1 Skilled in building structured console tools and mastering core C++ concepts
+This project is created for educational purposes under Codtech’s Internship Program. See the `LICENSE` file for more details.
 
+---
 
-🙏 Acknowledgments
-Codtech IT Solutions for the opportunity
-Neela Santhosh for guidance and mentorship
-The open source community for tutorials and resources
-Everyone who provided feedback during development
+## 👨‍💻 Author
+
+**Aradhya Verma**  
+C++ Enthusiast | Codtech Intern – Task 1  
+Skilled in building structured console tools and mastering core C++ concepts  
+
+---
+
+## 🙏 Acknowledgments
+
+- Codtech IT Solutions for the opportunity  
+- Neela Santhosh for guidance and mentorship  
+- The open-source community for tutorials and resources  
+- Everyone who provided feedback during development  
+
+### 🔗 Gallerry
 
 https://github.com/aradh-12/FILE-MANAGEMENT-TOOL/issues/1
