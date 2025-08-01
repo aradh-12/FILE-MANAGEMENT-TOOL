@@ -160,7 +160,4 @@ The open source community for tutorials and resources
 Everyone who provided feedback during development
 
 
- #output
-
-<img width="1451" height="847" alt="Screenshot 2025-08-01 at 2 49 40 PM" src="https://github.com/user-attachments/assets/4ccb60df-baad-4c83-b28c-29cdf525fce3" />
-
+![Task 1 Output](task%201%20output%20image.png)
