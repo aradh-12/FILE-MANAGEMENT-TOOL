@@ -159,5 +159,6 @@ Neela Santhosh for guidance and mentorship
 The open source community for tutorials and resources
 Everyone who provided feedback during development
 
+<img width="1451" height="847" alt="task 1 output image" src="https://github.com/user-attachments/assets/db079dab-a296-4591-94ad-97e6946070f2" />
 
-![Task 1 Output](task%201%20output%20image.png)
+![Task 1 Output](Task1_FileManagement/task%201%20output%20image.png)
