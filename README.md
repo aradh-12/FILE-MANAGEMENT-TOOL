@@ -159,7 +159,6 @@ Neela Santhosh for guidance and mentorship
 The open source community for tutorials and resources
 Everyone who provided feedback during development
 
-<img width="1451" height="847" alt="task_output_image" src="https://github.com/user-attachments/assets/5947604f-16b9-4516-8169-0235f5bc5d20" />
-
+https://github.com/aradh-12/FILE-MANAGEMENT-TOOL/issues/1#issue-3284027228
 
 
